@@ -1,0 +1,11 @@
+header{
+    padding: 25px 0px;
+    background-color: rgb(88, 88, 246);
+    text-align: center;
+}
+
+header h2{
+    color:#fff;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
